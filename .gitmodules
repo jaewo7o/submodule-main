@@ -1,6 +1,8 @@
 [submodule "lib"]
 	path = lib
+	branch = main
 	url = https://github.com/jaewo7o/submodule-sub1.git
 [submodule "project"]
 	path = project
+	branch = main
 	url = https://github.com/jaewo7o/submodule-sub2.git
